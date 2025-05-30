@@ -1,0 +1,4 @@
+_id,clientId,providerId,purchaseDate,brand,frame.type,frame.color,glasses.left.color,glasses.left.graduation,glasses.right.color,glasses.right.graduation,purchasePrice
+683a092007d4bf9b50764bbf,683a08b707d4bf9b50764bb9,683a085c07d4bf9b50764bb2,2025-05-20T11:30:00Z,Ray-Ban,metal,negro,transparente,1.5,transparente,1.5,150
+683a092007d4bf9b50764bc0,683a08b707d4bf9b50764bba,683a085c07d4bf9b50764bb3,2025-05-21T16:00:00Z,Oakley,plástico,azul,gris,2,gris,2,200
+683a092007d4bf9b50764bc1,683a08b707d4bf9b50764bbb,683a085c07d4bf9b50764bb4,2025-05-22T09:15:00Z,Polaroid,metal,plata,verde,0.75,verde,0.75,180
