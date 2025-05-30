@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "683a0aa707d4bf9b50764bd3"
+  },
+  "clientName": "Ana Pérez",
+  "address": "Carrer de Balmes, 23, 3ºB, 08007, Barcelona, España",
+  "phone": "+34612345678",
+  "email": "ana.perez@example.com",
+  "registerDate": "2025-05-01T10:30:00Z",
+  "referralClient": null
+},
+{
+  "_id": {
+    "$oid": "683a0aa707d4bf9b50764bd4"
+  },
+  "clientName": "Jorge Martínez",
+  "address": "Calle Mayor, 45, 1ºA, 28013, Madrid, España",
+  "phone": "+34698765432",
+  "email": "jorge.martinez@example.com",
+  "registerDate": "2025-04-20T14:15:00Z",
+  "referralClient": null
+},
+{
+  "_id": {
+    "$oid": "683a0aa707d4bf9b50764bd5"
+  },
+  "clientName": "Lucía Gómez",
+  "address": "Avinguda Diagonal, 150, 2ºC, 08018, Barcelona, España",
+  "phone": "+34611223344",
+  "email": "lucia.gomez@example.com",
+  "registerDate": "2025-05-10T09:00:00Z",
+  "referralClient": null
+}]
