@@ -24,7 +24,7 @@ Level 1 and 2 exercises from topic 3 of Sprint 2: https://itacademy.barcelonacti
 * Git & GitHub
 
 ## 📋 Requirements
-* LEVEL 1------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* LEVEL 1 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Exercise 1  Located in "Exercise1" Folder
 * Download the json files `optician.clients.json`, `optician.providers.json`, `optician.sales.json`,  and upload them with the MongoDB Compass utility to the collections. 
 You can also just check them with https://jsoneditoronline.org
@@ -33,7 +33,12 @@ You can also just check them with https://jsoneditoronline.org
 * Download the json files `optician_exercise2.clients.json`, `optician_exercise2.providers.json`, `optician_exercise2.sales.json`,  and upload them with the MongoDB Compass utility to the collections. 
 You can also just check them with https://jsoneditoronline.org
 
-* LEVEL 2------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* LEVEL 2 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 * Located in "Level2" Folder
 * Download the json files `foodDelivery.clients.json`, `foodDelivery.orders.json`, `foodDelivery.pizza_categories.json`, `foodDelivery.shops.json`, `foodDelivery.orders.json`,  and upload them with the MongoDB Compass utility to the collections. 
+You can also just check them with https://jsoneditoronline.org
+
+* LEVEL 3 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+* Located in "Level3" Folder
+* Download the json files `youtube.channels.json`, `youtube.comments.json`, `youtube.playlists.json`, `youtube.users.json`, `youtube.videos.json`,  and upload them with the MongoDB Compass utility to the collections. 
 You can also just check them with https://jsoneditoronline.org
