@@ -1,0 +1,183 @@
+[{
+  "_id": {
+    "$oid": "650000000000000000000111"
+  },
+  "title": "Introducción a MongoDB",
+  "description": "Video tutorial básico sobre MongoDB y sus funcionalidades.",
+  "size_mb": 150,
+  "filename": "intro_mongodb.mp4",
+  "duration_seconds": 600,
+  "thumbnail": "https://example.com/thumbnails/intro_mongodb.jpg",
+  "views": 12000,
+  "likes": 800,
+  "dislikes": 20,
+  "state": "public",
+  "tags": [
+    "funny",
+    "pep",
+    "furrys"
+  ],
+  "publishing": {
+    "user_id": {
+      "$oid": "650000000000000000000001"
+    },
+    "publishing_date": {
+      "$date": "2025-03-15T12:00:00.000Z"
+    }
+  },
+  "reaction_likes": [
+    {
+      "user_id": {
+        "$oid": "650000000000000000000002"
+      },
+      "reaction_date": {
+        "$date": "2025-03-16T15:00:00.000Z"
+      }
+    }
+  ],
+  "reaction_dislikes": [
+    {
+      "user_id": {
+        "$oid": "650000000000000000000003"
+      },
+      "reaction_date": {
+        "$date": "2025-03-17T18:00:00.000Z"
+      }
+    }
+  ],
+  "playlists": [
+    {
+      "$oid": "650000000000000000000201"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "650000000000000000000112"
+  },
+  "title": "Tutorial Node.js",
+  "description": "Aprende Node.js paso a paso.",
+  "size_mb": 200,
+  "filename": "nodejs_tutorial.mp4",
+  "duration_seconds": 900,
+  "thumbnail": "https://example.com/thumbnails/nodejs.jpg",
+  "views": 15000,
+  "likes": 1100,
+  "dislikes": 30,
+  "state": "public",
+  "tags": [
+    "programming",
+    "nodejs",
+    "backend"
+  ],
+  "publishing": {
+    "user_id": {
+      "$oid": "650000000000000000000002"
+    },
+    "publishing_date": {
+      "$date": "2025-04-10T10:30:00.000Z"
+    }
+  },
+  "reaction_likes": [],
+  "reaction_dislikes": [],
+  "playlists": [
+    {
+      "$oid": "650000000000000000000203"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "650000000000000000000113"
+  },
+  "title": "CSS avanzado",
+  "description": "Tips para mejorar tu CSS.",
+  "size_mb": 100,
+  "filename": "css_avanzado.mp4",
+  "duration_seconds": 400,
+  "thumbnail": "https://example.com/thumbnails/css.jpg",
+  "views": 8000,
+  "likes": 500,
+  "dislikes": 5,
+  "state": "private",
+  "tags": [
+    "css",
+    "webdesign"
+  ],
+  "publishing": {
+    "user_id": {
+      "$oid": "650000000000000000000003"
+    },
+    "publishing_date": {
+      "$date": "2025-01-20T09:00:00.000Z"
+    }
+  },
+  "reaction_likes": [],
+  "reaction_dislikes": [],
+  "playlists": []
+},
+{
+  "_id": {
+    "$oid": "650000000000000000000114"
+  },
+  "title": "React desde cero",
+  "description": "Curso completo de React.",
+  "size_mb": 300,
+  "filename": "react_curso.mp4",
+  "duration_seconds": 1200,
+  "thumbnail": "https://example.com/thumbnails/react.jpg",
+  "views": 18000,
+  "likes": 1500,
+  "dislikes": 50,
+  "state": "public",
+  "tags": [
+    "react",
+    "javascript",
+    "frontend"
+  ],
+  "publishing": {
+    "user_id": {
+      "$oid": "650000000000000000000004"
+    },
+    "publishing_date": {
+      "$date": "2025-02-25T14:00:00.000Z"
+    }
+  },
+  "reaction_likes": [],
+  "reaction_dislikes": [],
+  "playlists": [
+    {
+      "$oid": "650000000000000000000204"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "650000000000000000000115"
+  },
+  "title": "Video divertido",
+  "description": "Un video para reír y distraerse.",
+  "size_mb": 50,
+  "filename": "video_divertido.mp4",
+  "duration_seconds": 300,
+  "thumbnail": "https://example.com/thumbnails/divertido.jpg",
+  "views": 20000,
+  "likes": 2500,
+  "dislikes": 10,
+  "state": "public",
+  "tags": [
+    "funny",
+    "comedy"
+  ],
+  "publishing": {
+    "user_id": {
+      "$oid": "650000000000000000000005"
+    },
+    "publishing_date": {
+      "$date": "2025-05-01T11:00:00.000Z"
+    }
+  },
+  "reaction_likes": [],
+  "reaction_dislikes": [],
+  "playlists": []
+}]

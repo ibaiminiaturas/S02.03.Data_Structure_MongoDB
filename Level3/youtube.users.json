@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "650000000000000000000001"
+  },
+  "email": "maria.garcia@example.com",
+  "password": "hashed_password_1",
+  "username": "mariagarcia",
+  "birthdate": {
+    "$date": "1990-03-15T00:00:00.000Z"
+  },
+  "gender": "female",
+  "country": "Spain",
+  "zipcode": "08014",
+  "channel_id": {
+    "$oid": "650000000000000000000101"
+  },
+  "playlists": [
+    {
+      "$oid": "650000000000000000000201"
+    },
+    {
+      "$oid": "650000000000000000000202"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "650000000000000000000002"
+  },
+  "email": "juan.perez@example.com",
+  "password": "hashed_password_2",
+  "username": "juanperez",
+  "birthdate": {
+    "$date": "1985-06-20T00:00:00.000Z"
+  },
+  "gender": "male",
+  "country": "Mexico",
+  "zipcode": "03100",
+  "channel_id": {
+    "$oid": "650000000000000000000102"
+  },
+  "playlists": [
+    {
+      "$oid": "650000000000000000000203"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "650000000000000000000003"
+  },
+  "email": "ana.lopez@example.com",
+  "password": "hashed_password_3",
+  "username": "analopez",
+  "birthdate": {
+    "$date": "1995-11-10T00:00:00.000Z"
+  },
+  "gender": "female",
+  "country": "Argentina",
+  "zipcode": "C1426BHG",
+  "channel_id": {
+    "$oid": "650000000000000000000103"
+  },
+  "playlists": []
+},
+{
+  "_id": {
+    "$oid": "650000000000000000000004"
+  },
+  "email": "carlos.martin@example.com",
+  "password": "hashed_password_4",
+  "username": "carlosmartin",
+  "birthdate": {
+    "$date": "1978-01-30T00:00:00.000Z"
+  },
+  "gender": "male",
+  "country": "Chile",
+  "zipcode": "8320000",
+  "channel_id": {
+    "$oid": "650000000000000000000104"
+  },
+  "playlists": [
+    {
+      "$oid": "650000000000000000000204"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "650000000000000000000005"
+  },
+  "email": "laura.sanchez@example.com",
+  "password": "hashed_password_5",
+  "username": "laurasanchez",
+  "birthdate": {
+    "$date": "2000-09-25T00:00:00.000Z"
+  },
+  "gender": "female",
+  "country": "Colombia",
+  "zipcode": "110111",
+  "channel_id": {
+    "$oid": "650000000000000000000105"
+  },
+  "playlists": []
+}]

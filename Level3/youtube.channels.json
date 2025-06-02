@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "650000000000000000000101"
+  },
+  "channel_name": "Tech Insights",
+  "description": "Canal dedicado a tutoriales y novedades tecnológicas.",
+  "creation_date": {
+    "$date": "2023-01-15T10:00:00.000Z"
+  },
+  "owner_user_id": {
+    "$oid": "650000000000000000000001"
+  },
+  "subscriptions": [
+    {
+      "$oid": "650000000000000000000002"
+    },
+    {
+      "$oid": "650000000000000000000003"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "650000000000000000000102"
+  },
+  "channel_name": "Node Mastery",
+  "description": "Aprende Node.js y desarrollo backend.",
+  "creation_date": {
+    "$date": "2023-02-20T08:30:00.000Z"
+  },
+  "owner_user_id": {
+    "$oid": "650000000000000000000002"
+  },
+  "subscriptions": [
+    {
+      "$oid": "650000000000000000000001"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "650000000000000000000103"
+  },
+  "channel_name": "CSS Lovers",
+  "description": "Tutoriales y trucos para CSS.",
+  "creation_date": {
+    "$date": "2023-03-05T11:45:00.000Z"
+  },
+  "owner_user_id": {
+    "$oid": "650000000000000000000003"
+  },
+  "subscriptions": []
+}]

@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "650000000000000000000301"
+  },
+  "user_id": {
+    "$oid": "650000000000000000000002"
+  },
+  "video_id": {
+    "$oid": "650000000000000000000111"
+  },
+  "comment_text": "¡Excelente video, muy claro y útil!",
+  "comment_date": {
+    "$date": "2025-05-01T14:22:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "650000000000000000000302"
+  },
+  "user_id": {
+    "$oid": "650000000000000000000003"
+  },
+  "video_id": {
+    "$oid": "650000000000000000000114"
+  },
+  "comment_text": "Muy bueno el curso de React, aprendí mucho.",
+  "comment_date": {
+    "$date": "2025-05-03T10:00:00.000Z"
+  }
+}]

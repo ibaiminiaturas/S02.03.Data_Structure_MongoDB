@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "650000000000000000000201"
+  },
+  "playlist_name": "Mis favoritos tech",
+  "creation_date": {
+    "$date": "2024-04-10T09:00:00.000Z"
+  },
+  "status": "public",
+  "owner_user_id": {
+    "$oid": "650000000000000000000001"
+  },
+  "videos": [
+    {
+      "$oid": "650000000000000000000111"
+    },
+    {
+      "$oid": "650000000000000000000112"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "650000000000000000000202"
+  },
+  "playlist_name": "Cursos para principiantes",
+  "creation_date": {
+    "$date": "2024-05-05T10:15:00.000Z"
+  },
+  "status": "private",
+  "owner_user_id": {
+    "$oid": "650000000000000000000001"
+  },
+  "videos": [
+    {
+      "$oid": "650000000000000000000113"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "650000000000000000000203"
+  },
+  "playlist_name": "Node.js Tutorials",
+  "creation_date": {
+    "$date": "2024-06-20T13:45:00.000Z"
+  },
+  "status": "public",
+  "owner_user_id": {
+    "$oid": "650000000000000000000002"
+  },
+  "videos": [
+    {
+      "$oid": "650000000000000000000112"
+    }
+  ]
+}]
