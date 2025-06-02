@@ -1,0 +1,87 @@
+[{
+  "_id": {
+    "$oid": "683d7c3d59735065534509c7"
+  },
+  "shop_id": 1,
+  "name": "Pizzería Gràcia",
+  "address": "Carrer Verdi, 45, Bajo",
+  "zipcode": "08012",
+  "city": "Barcelona",
+  "province": "Barcelona",
+  "employees": [
+    {
+      "name": "Jordi",
+      "surname_1": "Casas",
+      "surname_2": "López",
+      "nif": "12345678A",
+      "phone": "600123456",
+      "position": "cooker"
+    },
+    {
+      "name": "Marta",
+      "surname_1": "Soler",
+      "surname_2": "Fernández",
+      "nif": "87654321B",
+      "phone": "600987654",
+      "position": "runner"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683d7c3d59735065534509c8"
+  },
+  "shop_id": 2,
+  "name": "Pizzería Sant Antoni",
+  "address": "Carrer del Parlament, 29, Local 2",
+  "zipcode": "08015",
+  "city": "Barcelona",
+  "province": "Barcelona",
+  "employees": [
+    {
+      "name": "Carlos",
+      "surname_1": "Gómez",
+      "surname_2": "Martín",
+      "nif": "11223344C",
+      "phone": "611223344",
+      "position": "cooker"
+    },
+    {
+      "name": "Lucía",
+      "surname_1": "Torres",
+      "surname_2": "Ramírez",
+      "nif": "99887766D",
+      "phone": "622334455",
+      "position": "runner"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683d7c3d59735065534509c9"
+  },
+  "shop_id": 3,
+  "name": "Pizzería Poblenou",
+  "address": "Rambla del Poblenou, 124, Local A",
+  "zipcode": "08005",
+  "city": "Barcelona",
+  "province": "Barcelona",
+  "employees": [
+    {
+      "name": "Alejandro",
+      "surname_1": "Navarro",
+      "surname_2": "Blanco",
+      "nif": "33445566E",
+      "phone": "633445566",
+      "position": "cooker"
+    },
+    {
+      "name": "Elena",
+      "surname_1": "Ruiz",
+      "surname_2": "Santos",
+      "nif": "44556677F",
+      "phone": "644556677",
+      "position": "runner"
+    }
+  ]
+}]

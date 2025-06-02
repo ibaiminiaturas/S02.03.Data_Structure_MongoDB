@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "683d7be759735065534509c0"
+  },
+  "product_id": 101,
+  "name": "Pizza Margarita",
+  "type": "pizza",
+  "category_id": 1,
+  "description": "Pizza con salsa de tomate, mozzarella y albahaca fresca",
+  "image": "https://example.com/images/margarita.jpg",
+  "price": 9.9
+},
+{
+  "_id": {
+    "$oid": "683d7be759735065534509c1"
+  },
+  "product_id": 102,
+  "name": "Pizza Cuatro Quesos",
+  "type": "pizza",
+  "category_id": 1,
+  "description": "Pizza con mezcla de mozzarella, gorgonzola, parmesano y emmental",
+  "image": "https://example.com/images/cuatroquesos.jpg",
+  "price": 11.5
+},
+{
+  "_id": {
+    "$oid": "683d7be759735065534509c2"
+  },
+  "product_id": 103,
+  "name": "Pizza Vegana BBQ",
+  "type": "pizza",
+  "category_id": 3,
+  "description": "Pizza vegana con salsa BBQ, heura, pimientos y cebolla roja",
+  "image": "https://example.com/images/veganabbq.jpg",
+  "price": 12.3
+},
+{
+  "_id": {
+    "$oid": "683d7be759735065534509c3"
+  },
+  "product_id": 201,
+  "name": "Hamburguesa Clásica",
+  "type": "burger",
+  "description": "Hamburguesa con carne de ternera, lechuga, tomate, queso y mayonesa",
+  "image": "https://example.com/images/hamburguesa.jpg",
+  "price": 8.75
+},
+{
+  "_id": {
+    "$oid": "683d7be759735065534509c4"
+  },
+  "product_id": 301,
+  "name": "Coca-Cola Zero 500ml",
+  "type": "drink",
+  "description": "Refresco sin azúcar en botella de 500ml",
+  "image": "https://example.com/images/cocazero.jpg",
+  "price": 2
+}]

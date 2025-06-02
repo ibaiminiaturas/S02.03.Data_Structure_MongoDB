@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "683d7bd659735065534509bb"
+  },
+  "category_id": 1,
+  "category": "Clásicas",
+  "name": "Pizzas tradicionales italianas con ingredientes básicos como mozzarella, tomate y albahaca"
+},
+{
+  "_id": {
+    "$oid": "683d7bd659735065534509bc"
+  },
+  "category_id": 2,
+  "category": "Especiales del Chef",
+  "name": "Combinaciones únicas creadas por nuestros chefs, disponibles por tiempo limitado"
+},
+{
+  "_id": {
+    "$oid": "683d7bd659735065534509bd"
+  },
+  "category_id": 3,
+  "category": "Veganas",
+  "name": "Pizzas sin ingredientes de origen animal, ideales para dietas vegetales"
+}]

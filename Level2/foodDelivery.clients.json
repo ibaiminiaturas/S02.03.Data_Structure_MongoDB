@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "683d7ac159735065534509ae"
+  },
+  "client_id": 1,
+  "client_name": "Laura Martínez",
+  "address": "Carrer de la Marina, 150, 3º1ª",
+  "zipcode": "08013",
+  "city": "Barcelona",
+  "province": "Barcelona",
+  "phone": "622334455"
+},
+{
+  "_id": {
+    "$oid": "683d7ac159735065534509af"
+  },
+  "client_id": 2,
+  "client_name": "David López",
+  "address": "Gran Via de les Corts Catalanes, 340, 2ºB",
+  "zipcode": "08015",
+  "city": "Barcelona",
+  "province": "Barcelona",
+  "phone": "633445566"
+},
+{
+  "_id": {
+    "$oid": "683d7ac159735065534509b0"
+  },
+  "client_id": 3,
+  "client_name": "Carla Rojas",
+  "address": "Av. Diagonal, 505, 5º2ª",
+  "zipcode": "08006",
+  "city": "Barcelona",
+  "province": "Barcelona",
+  "phone": "644556677"
+},
+{
+  "_id": {
+    "$oid": "683d7ac159735065534509b1"
+  },
+  "client_id": 4,
+  "client_name": "Pedro Sánchez",
+  "address": "Passeig de Sant Joan, 120, 1ºA",
+  "zipcode": "08009",
+  "city": "Barcelona",
+  "province": "Barcelona",
+  "phone": "655667788"
+},
+{
+  "_id": {
+    "$oid": "683d7ac159735065534509b2"
+  },
+  "client_id": 5,
+  "client_name": "Nuria García",
+  "address": "Carrer Aragó, 270, 4º1ª",
+  "zipcode": "08007",
+  "city": "Barcelona",
+  "province": "Barcelona",
+  "phone": "677889900"
+}]

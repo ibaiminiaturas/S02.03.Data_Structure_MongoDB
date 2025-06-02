@@ -1,0 +1,218 @@
+[{
+  "_id": {
+    "$oid": "683d7d7559735065534509ce"
+  },
+  "order_id": 1,
+  "client": {
+    "client_id": 1,
+    "client_name": "Laura Martínez"
+  },
+  "purchaseDate": "2025-05-28T12:00:00Z",
+  "order_type": "delivery",
+  "delivery_data": {
+    "delivery_address": {
+      "street": "Carrer de la Marina",
+      "number": "150",
+      "floor": "3º1ª",
+      "contact_number": "622334455",
+      "delivery_information": "Timbre roto, llamar al móvil"
+    },
+    "runner": "Marta Soler",
+    "delivery_date": "2025-05-28T12:30:00Z"
+  },
+  "order_price": 19.8,
+  "additional_info": "Sin queso en una de las pizzas",
+  "products": [
+    {
+      "product_id": 101,
+      "product_name": "Pizza Margarita",
+      "product_quantity": 2,
+      "product_price": 9.9
+    }
+  ],
+  "shop": {
+    "shop_id": 1,
+    "shop_name": "Pizzería Gràcia"
+  }
+},
+{
+  "_id": {
+    "$oid": "683d7d7c59735065534509d0"
+  },
+  "order_id": 2,
+  "client": {
+    "client_id": 2,
+    "client_name": "David López"
+  },
+  "purchaseDate": "2025-05-28T13:15:00Z",
+  "order_type": "pickup",
+  "order_price": 11.5,
+  "additional_info": "",
+  "products": [
+    {
+      "product_id": 102,
+      "product_name": "Pizza Cuatro Quesos",
+      "product_quantity": 1,
+      "product_price": 11.5
+    }
+  ],
+  "shop": {
+    "shop_id": 2,
+    "shop_name": "Pizzería Sant Antoni"
+  }
+},
+{
+  "_id": {
+    "$oid": "683d7d8559735065534509d2"
+  },
+  "order_id": 3,
+  "client": {
+    "client_id": 3,
+    "client_name": "Carla Rojas"
+  },
+  "purchaseDate": "2025-05-29T18:45:00Z",
+  "order_type": "delivery",
+  "delivery_data": {
+    "delivery_address": {
+      "street": "Av. Diagonal",
+      "number": "505",
+      "floor": "5º2ª",
+      "contact_number": "644556677",
+      "delivery_information": "Dejar en portería"
+    },
+    "runner": "Lucía Torres",
+    "delivery_date": "2025-05-29T19:15:00Z"
+  },
+  "order_price": 12.3,
+  "additional_info": "",
+  "products": [
+    {
+      "product_id": 103,
+      "product_name": "Pizza Vegana BBQ",
+      "product_quantity": 1,
+      "product_price": 12.3
+    }
+  ],
+  "shop": {
+    "shop_id": 2,
+    "shop_name": "Pizzería Sant Antoni"
+  }
+},
+{
+  "_id": {
+    "$oid": "683d7d8c59735065534509d4"
+  },
+  "order_id": 4,
+  "client": {
+    "client_id": 4,
+    "client_name": "Pedro Sánchez"
+  },
+  "purchaseDate": "2025-05-30T20:10:00Z",
+  "order_type": "pickup",
+  "order_price": 19.5,
+  "additional_info": "Sin cebolla en la hamburguesa",
+  "products": [
+    {
+      "product_id": 201,
+      "product_name": "Hamburguesa Clásica",
+      "product_quantity": 2,
+      "product_price": 8.75
+    },
+    {
+      "product_id": 301,
+      "product_name": "Coca-Cola Zero 500ml",
+      "product_quantity": 1,
+      "product_price": 2
+    }
+  ],
+  "shop": {
+    "shop_id": 3,
+    "shop_name": "Pizzería Poblenou"
+  }
+},
+{
+  "_id": {
+    "$oid": "683d7d9459735065534509d6"
+  },
+  "order_id": 5,
+  "client": {
+    "client_id": 5,
+    "client_name": "Nuria García"
+  },
+  "purchaseDate": "2025-05-31T14:00:00Z",
+  "order_type": "delivery",
+  "delivery_data": {
+    "delivery_address": {
+      "street": "Carrer Aragó",
+      "number": "270",
+      "floor": "4º1ª",
+      "contact_number": "677889900",
+      "delivery_information": "Tocar el timbre 2 veces"
+    },
+    "runner": "Elena Ruiz",
+    "delivery_date": "2025-05-31T14:25:00Z"
+  },
+  "order_price": 23.8,
+  "additional_info": "",
+  "products": [
+    {
+      "product_id": 102,
+      "product_name": "Pizza Cuatro Quesos",
+      "product_quantity": 1,
+      "product_price": 11.5
+    },
+    {
+      "product_id": 103,
+      "product_name": "Pizza Vegana BBQ",
+      "product_quantity": 1,
+      "product_price": 12.3
+    }
+  ],
+  "shop": {
+    "shop_id": 3,
+    "shop_name": "Pizzería Poblenou"
+  }
+},
+{
+  "_id": {
+    "$oid": "683d7d9d59735065534509d8"
+  },
+  "order_id": 6,
+  "client": {
+    "client_id": 2,
+    "client_name": "David López"
+  },
+  "purchaseDate": "2025-06-01T19:30:00Z",
+  "order_type": "delivery",
+  "delivery_data": {
+    "delivery_address": {
+      "street": "Gran Via de les Corts Catalanes",
+      "number": "340",
+      "floor": "2ºB",
+      "contact_number": "633445566",
+      "delivery_information": "Entregar en mano"
+    },
+    "runner": "Lucía Torres",
+    "delivery_date": "2025-06-01T20:00:00Z"
+  },
+  "order_price": 10.75,
+  "additional_info": "",
+  "products": [
+    {
+      "product_id": 201,
+      "product_name": "Hamburguesa Clásica",
+      "product_quantity": 1,
+      "product_price": 8.75
+    },
+    {
+      "product_id": 301,
+      "product_name": "Coca-Cola Zero 500ml",
+      "product_quantity": 1,
+      "product_price": 2
+    }
+  ],
+  "shop": {
+    "shop_id": 2,
+    "shop_name": "Pizzería Sant Antoni"
+  }
+}]
