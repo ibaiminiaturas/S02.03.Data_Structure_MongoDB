@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "683a092007d4bf9b50764bbf"
+  },
+  "clientId": "683a08b707d4bf9b50764bb9",
+  "providerId": "683a085c07d4bf9b50764bb2",
+  "purchaseDate": "2025-05-20T11:30:00Z",
+  "brand": "Ray-Ban",
+  "frame": {
+    "type": "metal",
+    "color": "negro"
+  },
+  "glasses": {
+    "left": {
+      "color": "transparente",
+      "graduation": 1.5
+    },
+    "right": {
+      "color": "transparente",
+      "graduation": 1.5
+    }
+  },
+  "purchasePrice": 150
+},
+{
+  "_id": {
+    "$oid": "683a092007d4bf9b50764bc0"
+  },
+  "clientId": "683a08b707d4bf9b50764bba",
+  "providerId": "683a085c07d4bf9b50764bb3",
+  "purchaseDate": "2025-05-21T16:00:00Z",
+  "brand": "Oakley",
+  "frame": {
+    "type": "plástico",
+    "color": "azul"
+  },
+  "glasses": {
+    "left": {
+      "color": "gris",
+      "graduation": 2
+    },
+    "right": {
+      "color": "gris",
+      "graduation": 2
+    }
+  },
+  "purchasePrice": 200
+},
+{
+  "_id": {
+    "$oid": "683a092007d4bf9b50764bc1"
+  },
+  "clientId": "683a08b707d4bf9b50764bbb",
+  "providerId": "683a085c07d4bf9b50764bb4",
+  "purchaseDate": "2025-05-22T09:15:00Z",
+  "brand": "Polaroid",
+  "frame": {
+    "type": "metal",
+    "color": "plata"
+  },
+  "glasses": {
+    "left": {
+      "color": "verde",
+      "graduation": 0.75
+    },
+    "right": {
+      "color": "verde",
+      "graduation": 0.75
+    }
+  },
+  "purchasePrice": 180
+}]
