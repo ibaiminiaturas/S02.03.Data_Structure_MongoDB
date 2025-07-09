@@ -1,54 +1,56 @@
-[{
-  "_id": {
-    "$oid": "683a0ab707d4bf9b50764bd8"
+[
+  {
+    "_id": {
+      "$oid": "683a0ab707d4bf9b50764bd8"
+    },
+    "name": "OptiSupply S.L.",
+    "address": {
+      "street": "Carrer Major",
+      "number": "12",
+      "floor": "1",
+      "door": "A",
+      "city": "Sabadell",
+      "postal_code": "08208",
+      "country": "España"
+    },
+    "phone": "+34933333333",
+    "fax": "+34933333334",
+    "NIF": "B12345678"
   },
-  "name": "OptiSupply S.L.",
-  "address": {
-    "street": "Carrer Major",
-    "number": "12",
-    "floor": "1",
-    "door": "A",
-    "city": "Sabadell",
-    "postalCode": "08208",
-    "country": "España"
+  {
+    "_id": {
+      "$oid": "683a0ab707d4bf9b50764bd9"
+    },
+    "name": "VisionPro Ltd.",
+    "address": {
+      "street": "Avinguda Diagonal",
+      "number": "45",
+      "floor": "3",
+      "door": "B",
+      "city": "Barcelona",
+      "postal_code": "08008",
+      "country": "España"
+    },
+    "phone": "+34935555555",
+    "fax": "+34935555556",
+    "NIF": "C87654321"
   },
-  "phone": "+34933333333",
-  "fax": "+34933333334",
-  "NIF": "B12345678"
-},
-{
-  "_id": {
-    "$oid": "683a0ab707d4bf9b50764bd9"
-  },
-  "name": "VisionPro Ltd.",
-  "address": {
-    "street": "Avinguda Diagonal",
-    "number": "45",
-    "floor": "3",
-    "door": "B",
-    "city": "Barcelona",
-    "postalCode": "08008",
-    "country": "España"
-  },
-  "phone": "+34935555555",
-  "fax": "+34935555556",
-  "NIF": "C87654321"
-},
-{
-  "_id": {
-    "$oid": "683a0ab707d4bf9b50764bda"
-  },
-  "name": "Lentes Global",
-  "address": {
-    "street": "Gran Via",
-    "number": "100",
-    "floor": "2",
-    "door": "C",
-    "city": "Madrid",
-    "postalCode": "28013",
-    "country": "España"
-  },
-  "phone": "+34914444444",
-  "fax": "+34914444445",
-  "NIF": "D11223344"
-}]
+  {
+    "_id": {
+      "$oid": "683a0ab707d4bf9b50764bda"
+    },
+    "name": "Lentes Global",
+    "address": {
+      "street": "Gran Via",
+      "number": "100",
+      "floor": "2",
+      "door": "C",
+      "city": "Madrid",
+      "postal_code": "28013",
+      "country": "España"
+    },
+    "phone": "+34914444444",
+    "fax": "+34914444445",
+    "NIF": "D11223344"
+  }
+]

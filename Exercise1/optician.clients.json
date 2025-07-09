@@ -142,7 +142,7 @@
     "_id": {
       "$oid": "683a08b707d4bf9b50764bbb"
     },
-    "clientName": "Lucía Gómez",
+    "client_name": "Lucía Gómez",
     "address": "Avinguda Diagonal",
     "number": "150",
     "floor": "2",

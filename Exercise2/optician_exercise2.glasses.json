@@ -1,51 +1,53 @@
-[{
-  "_id": {
-    "$oid": "683a0b2507d4bf9b50764be0"
+[
+  {
+    "_id": {
+      "$oid": "683a0b2507d4bf9b50764be0"
+    },
+    "brand": "Ray-Ban",
+    "frame": {
+      "type": "metal",
+      "color": "negro"
+    },
+    "glass_color": "transparente",
+    "price": 150,
+    "provider_id": "683a0ab707d4bf9b50764bd8",
+    "client_ids": [
+      "1",
+      "2"
+    ]
   },
-  "brand": "Ray-Ban",
-  "frame": {
-    "type": "metal",
-    "color": "negro"
+  {
+    "_id": {
+      "$oid": "683a0b2507d4bf9b50764be1"
+    },
+    "brand": "Oakley",
+    "frame": {
+      "type": "plástico",
+      "color": "azul"
+    },
+    "glass_color": "gris",
+    "price": 200,
+    "provider_id": "683a0ab707d4bf9b50764bd9",
+    "client_ids": [
+      "2",
+      "3"
+    ]
   },
-  "glassColor": "transparente",
-  "price": 150,
-  "providerId": "683a0ab707d4bf9b50764bd8",
-  "clientIds": [
-    "683a0aa707d4bf9b50764bd3",
-    "683a0aa707d4bf9b50764bd4"
-  ]
-},
-{
-  "_id": {
-    "$oid": "683a0b2507d4bf9b50764be1"
-  },
-  "brand": "Oakley",
-  "frame": {
-    "type": "plástico",
-    "color": "azul"
-  },
-  "glassColor": "gris",
-  "price": 200,
-  "providerId": "683a0ab707d4bf9b50764bd9",
-  "clientIds": [
-    "683a0aa707d4bf9b50764bd4",
-    "683a0aa707d4bf9b50764bd5"
-  ]
-},
-{
-  "_id": {
-    "$oid": "683a0b2507d4bf9b50764be2"
-  },
-  "brand": "Polaroid",
-  "frame": {
-    "type": "metal",
-    "color": "plata"
-  },
-  "glassColor": "verde",
-  "price": 180,
-  "providerId": "683a0ab707d4bf9b50764bda",
-  "clientIds": [
-    "683a0aa707d4bf9b50764bd3",
-    "683a0aa707d4bf9b50764bd5"
-  ]
-}]
+  {
+    "_id": {
+      "$oid": "683a0b2507d4bf9b50764be2"
+    },
+    "brand": "Polaroid",
+    "frame": {
+      "type": "metal",
+      "color": "plata"
+    },
+    "glass_color": "verde",
+    "price": 180,
+    "provider_id": "683a0ab707d4bf9b50764bda",
+    "client_ids": [
+      "1",
+      "3"
+    ]
+  }
+]
