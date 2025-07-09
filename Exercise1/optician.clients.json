@@ -1,33 +1,158 @@
-[{
-  "_id": {
-    "$oid": "683a08b707d4bf9b50764bb9"
+[
+  {
+    "_id": {
+      "$oid": "683a08b707d4bf9b50764bb9"
+    },
+    "client_name": "Ana Pérez",
+    "address": "Carrer de Balmes",
+    "number": "23",
+    "floor": "3",
+    "door": "B",
+    "post_code": "08007",
+    "city": "Barcelona",
+    "country": "España",
+    "phone": "+34612345678",
+    "email": "ana.perez@example.com",
+    "register_date": "2025-05-01T10:30:00Z",
+    "referral_client": null,
+    "purchases": [
+      {
+        "purchase_date": "2025-05-20T11:30:00Z",
+        "brand": "Ray-Ban",
+        "frame": {
+          "type": "metal",
+          "color": "negro"
+        },
+        "glasses": {
+          "left": {
+            "color": "transparente",
+            "graduation": 1.5
+          },
+          "right": {
+            "color": "transparente",
+            "graduation": 1.5
+          }
+        },
+        "purchasePrice": 150,
+        "provider": {
+          "name": "OptiSupply S.L.",
+          "address": {
+            "street": "Carrer Major",
+            "number": "12",
+            "floor": "1",
+            "door": "A",
+            "city": "Sabadell",
+            "postal_code": "08208",
+            "country": "España"
+          },
+          "phone": "+34933333333",
+          "fax": "+34933333334",
+          "NIF": "B12345678"
+        }
+      },
+      {
+        "purchase_date": "2025-07-05T14:45:00Z",
+        "brand": "Oakley",
+        "frame": {
+          "type": "plástico",
+          "color": "azul"
+        },
+        "glasses": {
+          "left": {
+            "color": "gris",
+            "graduation": 2.0
+          },
+          "right": {
+            "color": "gris",
+            "graduation": 1.75
+          }
+        },
+        "purchase_price": 180,
+        "provider": {
+          "name": "VisionPro Ltd.",
+          "address": {
+            "street": "Avinguda Diagonal",
+            "number": "45",
+            "floor": "3",
+            "door": "B",
+            "city": "Barcelona",
+            "postal_code": "08008",
+            "country": "España"
+          },
+          "phone": "+34935555555",
+          "fax": "+34935555556",
+          "NIF": "C87654321"
+        }
+      }
+    ]
   },
-  "clientName": "Ana Pérez",
-  "address": "Carrer de Balmes, 23, 3ºB, 08007, Barcelona, España",
-  "phone": "+34612345678",
-  "email": "ana.perez@example.com",
-  "registerDate": "2025-05-01T10:30:00Z",
-  "referralClient": null
-},
-{
-  "_id": {
-    "$oid": "683a08b707d4bf9b50764bba"
+  {
+    "_id": {
+      "$oid": "683a08b707d4bf9b50764bba"
+    },
+    "client_name": "Jorge Martínez",
+    "address": "Calle Mayor",
+    "floor": "1",
+    "door": "A",
+    "post_code": "28013",
+    "city": "Madrid",
+    "country": "España",
+    "phone": "+34698765432",
+    "email": "jorge.martinez@example.com",
+    "register_date": "2025-04-20T14:15:00Z",
+    "referral_client": null,
+    "purchases": [
+      {
+        "purchase_date": "2025-05-21T16:00:00Z",
+        "brand": "Oakley",
+        "frame": {
+          "type": "plástico",
+          "color": "azul"
+        },
+        "glasses": {
+          "left": {
+            "color": "gris",
+            "graduation": 2
+          },
+          "right": {
+            "color": "gris",
+            "graduation": 2
+          }
+        },
+        "purchase_price": 200,
+        "provider": {
+          "name": "Lentes Global",
+          "address": {
+            "street": "Gran Via",
+            "number": "100",
+            "floor": "2",
+            "door": "C",
+            "city": "Madrid",
+            "postal_code": "28013",
+            "country": "España"
+          },
+          "phone": "+34914444444",
+          "fax": "+34914444445",
+          "NIF": "D11223344"
+        }
+      }
+    ]
   },
-  "clientName": "Jorge Martínez",
-  "address": "Calle Mayor, 45, 1ºA, 28013, Madrid, España",
-  "phone": "+34698765432",
-  "email": "jorge.martinez@example.com",
-  "registerDate": "2025-04-20T14:15:00Z",
-  "referralClient": null
-},
-{
-  "_id": {
-    "$oid": "683a08b707d4bf9b50764bbb"
-  },
-  "clientName": "Lucía Gómez",
-  "address": "Avinguda Diagonal, 150, 2ºC, 08018, Barcelona, España",
-  "phone": "+34611223344",
-  "email": "lucia.gomez@example.com",
-  "registerDate": "2025-05-10T09:00:00Z",
-  "referralClient": null
-}]
+  {
+    "_id": {
+      "$oid": "683a08b707d4bf9b50764bbb"
+    },
+    "clientName": "Lucía Gómez",
+    "address": "Avinguda Diagonal",
+    "number": "150",
+    "floor": "2",
+    "door": "C",
+    "post_code": "08018",
+    "city": "Barcelona",
+    "country": "España",
+    "phone": "+34611223344",
+    "email": "lucia.gomez@example.com",
+    "register_date": "2025-05-10T09:00:00Z",
+    "referral_client": null
+  }
+]
